@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durai Prabhakar</h1>
-<h3 align="center">A newbie who likes learns about new technologies and skills</h3>
+<h3 align="center">A newbie who likes to learn new technologies and skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakar1116&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakar1116" /> </p>
 
